@@ -1,6 +1,6 @@
 # CodeBook for run_analysis.r Getting and Cleaning Data Project
 
-This is a code book that describes the variables, the data, and any transformations or work that you performed to clean up the data.
+This is a code book that describes the variables, the data, and any transformations or work that are performed to clean up the data.
 
 ## The Data Source
 
@@ -18,13 +18,13 @@ The sensor signals (accelerometer and gyroscope) were pre-processed by applying 
 The dataset includes the following files:
 
 a) 'README.txt'
-b) 'features_info.txt': Shows information about the variables used on the feature vector.
-c) 'features.txt': List of all features.
-d) 'activity_labels.txt': Links the class labels with their activity name.
-e) 'train/X_train.txt': Training set.
-f) 'train/y_train.txt': Training labels.
-g) 'test/X_test.txt': Test set.
-h) 'test/y_test.txt': Test labels.
+b) 'features_info.txt': Shows information about the variables used on the feature vector
+c) 'features.txt': List of all features
+d) 'activity_labels.txt': Links the class labels with their activity name
+e) 'train/X_train.txt': Training set
+f) 'train/y_train.txt': Training labels
+g) 'test/X_test.txt': Test set
+h) 'test/y_test.txt': Test labels
 
 ## The following files are available for the train and test data. Their descriptions are equivalent.
 
